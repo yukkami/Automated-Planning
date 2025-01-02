@@ -1,7 +1,6 @@
 import time
 from collections import deque
 from solver import PuzzleSolver
-from PuzzleState import PuzzleState
 from collections import deque
 
 def calculateHeuristic(stateBoard, goalBoard, heuristicType):
